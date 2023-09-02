@@ -1,0 +1,16 @@
+{
+  "name": "whatsthebesticanrun",
+  "version": "1.0.0",
+  "description": "best games that can run by pc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Numan Kavurmacı",
+  "license": "ISC",
+  "dependencies": {
+    "apify-client": "^2.7.1",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
