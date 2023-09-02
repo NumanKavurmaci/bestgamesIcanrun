@@ -2,8 +2,6 @@
 
 With this application, you can find the best PC games that match your hardware specifications. It takes your CPU, GPU, and RAM information as input and recommends games that are suitable for your system's capabilities.
 
-![Best Games I Can Run Screenshot](/path/to/screenshot.png)
-
 ## Getting Started
 
 To get started with this application, follow these steps:
@@ -53,3 +51,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 Thanks to Geekbench for providing hardware benchmark data.
+https://www.geekbench.com/
